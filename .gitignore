@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven
+target/
+dependency-reduced-pom.xml
+release.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code (optional)
+.vscode/
