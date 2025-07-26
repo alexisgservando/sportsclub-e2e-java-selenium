@@ -1,4 +1,4 @@
-# Exploratory Testing Summary — Exercise 1
+# Exercise 1 | Exploratory testing summary
 
 As part of the exploratory testing on the Qubika Sports Club Management System, the following UI/UX, functional, and API-related issues were observed. These insights are based on hands-on interaction with the system and supported by visual evidence from screenshots. Please review the items below:
 

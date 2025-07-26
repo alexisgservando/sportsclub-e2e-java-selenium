@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-26T17:02:38 CST" name="Default suite" finished-at="2025-07-26T17:02:48 CST" duration-ms="10128">
+  <suite started-at="2025-07-26T17:41:56 CST" name="Default suite" finished-at="2025-07-26T17:42:05 CST" duration-ms="8792">
     <groups>
     </groups>
-    <test started-at="2025-07-26T17:02:38 CST" name="Default test" finished-at="2025-07-26T17:02:48 CST" duration-ms="10128">
+    <test started-at="2025-07-26T17:41:56 CST" name="Default test" finished-at="2025-07-26T17:42:05 CST" duration-ms="8792">
       <class name="tests.E2EFlowTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:02:38 CST" name="setup" finished-at="2025-07-26T17:02:43 CST" duration-ms="4484" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:41:56 CST" name="setup" finished-at="2025-07-26T17:42:00 CST" duration-ms="4229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginAndDashboardAccess()[pri:1, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:02:43 CST" name="testLoginAndDashboardAccess" finished-at="2025-07-26T17:02:47 CST" duration-ms="4449" status="PASS">
+        <test-method signature="testLoginAndDashboardAccess()[pri:1, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:42:00 CST" name="testLoginAndDashboardAccess" finished-at="2025-07-26T17:42:04 CST" duration-ms="3446" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginAndDashboardAccess -->
-        <test-method signature="testCreateCategoryAndSubcategory()[pri:2, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:02:47 CST" name="testCreateCategoryAndSubcategory" finished-at="2025-07-26T17:02:48 CST" duration-ms="906" status="PASS">
+        <test-method signature="testCreateCategoryAndSubcategory()[pri:2, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:42:04 CST" name="testCreateCategoryAndSubcategory" finished-at="2025-07-26T17:42:05 CST" duration-ms="832" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateCategoryAndSubcategory -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:02:48 CST" name="teardown" finished-at="2025-07-26T17:02:48 CST" duration-ms="262" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.E2EFlowTest@65fb9ffc]" started-at="2025-07-26T17:42:05 CST" name="teardown" finished-at="2025-07-26T17:42:05 CST" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
