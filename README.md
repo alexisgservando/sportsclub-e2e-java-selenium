@@ -85,10 +85,10 @@ src/
 
 1. **Clone the repository** (replace with your URL):
    ```bash
-   git clone https://github.com/your-username/qubika-e2e-automation.git
-   cd qubika-e2e-automation
-2. Open in Eclipse or any IDE and wait for dependencies to load
-3. Run the tests using any of the following options:
+   git clone https://github.com/alexisgservando/sportsclub-e2e-java-selenium.git
+   cd sportsclub-e2e-java-selenium
+2. Open the project in Eclipse and wait for Maven to resolve dependencies.
+3. Navigate to the sportsclub-e2e/src/test/java/tests/E2EFlowTest.java file.
 4. Right-click the E2EFlowTest.java class → Run As → TestNG Test
 
 ## Notes
