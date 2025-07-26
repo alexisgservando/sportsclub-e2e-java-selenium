@@ -1,4 +1,4 @@
-# Qubika Sports Club Management - E2E Automation
+# Sports Club Management - E2E Automation
 
 This project implements an end-to-end (E2E) test automation flow that combines **API** and **UI testing** using:
 - **Selenium WebDriver**
